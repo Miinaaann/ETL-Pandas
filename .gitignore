@@ -15,6 +15,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Dokumen & Laporan lokal (Laporan resmi dikumpulkan terpisah)
+# Dokumen & Laporan lokal
 *.docx
 *.pdf
