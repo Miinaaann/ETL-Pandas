@@ -1,17 +1,6 @@
 # LAPORAN PRAKTIKUM PEMROSESAN DAN INFRASTRUKTUR DATA (PID)
 ## PIPELINE EXTRACT, TRANSFORM, LOAD (ETL) DATA SENSOR MULTI-FORMAT MENGGUNAKAN PYTHON PANDAS
 
-* **Mata Kuliah:** Pemrosesan dan Infrastruktur Data (PID) / Praktikum Platform IoT
-* **Dosen Pengampu:** Achmad Basuki, S.T., M.MG., Ph.D.
-* **Disusun Oleh:**
-  * **Nama:** Muhammad Minanur Rohman
-  * **NIM:** 245150300111053
-  * **Program Studi:** S1 Teknik Komputer
-  * **Departemen:** Teknik Informatika
-  * **Fakultas:** Fakultas Ilmu Komputer (FILKOM)
-  * **Institusi:** Universitas Brawijaya
-  * **Tahun:** 2026
-
 ---
 
 ## DAFTAR ISI
