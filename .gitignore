@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Dokumen & Laporan lokal (Laporan resmi dikumpulkan terpisah)
+*.docx
+*.pdf
