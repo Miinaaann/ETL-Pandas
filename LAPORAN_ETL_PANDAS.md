@@ -2029,8 +2029,8 @@ Berdasarkan seluruh rangkaian perancangan, implementasi, dan pengujian pipeline 
 2. **Asumsi Batas Toleransi Fisik Hardware:** Rentang pengukuran suhu valid hardware diasumsikan berada pada interval -10°C hingga 50°C berdasarkan spesifikasi teknis `sensor_config.json`.
 3. **Asumsi Stabilitas Kalibrasi Operasional:** Sensor dengan jeda interval waktu pembacaan dekat diasumsikan berada pada kondisi kalibrasi yang stabil.
 
-#### 5.5.4 Pernyataan Keterbukaan Penggunaan Perangkat AI (AI Disclosure Statement)
-**Deklarasi Integritas Akademik:** Sesuai ketentuan dan etika akademik penugasan, mahasiswa menyatakan secara terbuka bahwa seluruh rangkaian eksperimen pipeline ETL dan penyusunan laporan ini dikerjakan secara mandiri dengan memanfaatkan AI Coding Assistant sebagai sarana konsultasi teknis, eksplorasi opsi fungsi Pandas modern, verifikasi formula komputasi (seperti Heat Index dan Dew Point), serta penataan format dokumen OpenXML. Seluruh kode Python, logika transformasi, analisis statistik deskriptif, dan interpretasi visual telah diuji, dipahami, dan diverifikasi secara penuh oleh mahasiswa.
+#### 5.5.4 Pernyataan Penggunaan Perangkat AI
+Seluruh rangkaian eksperimen pipeline ETL dan penyusunan laporan ini dikerjakan dengan memanfaatkan AI Coding Assistant sebagai sarana konsultasi teknis, eksplorasi opsi fungsi Pandas modern, verifikasi formula komputasi (seperti Heat Index dan Dew Point), serta penataan format dokumen OpenXML. Seluruh kode Python, logika transformasi, analisis statistik deskriptif, dan interpretasi visual telah diuji, dipahami, dan diverifikasi.
 
 ### 5.6 Catatan Refleksi Teknis & Kompatibilitas Versi Modern (Pandas 3.x)
 Selama pelaksanaan praktikum pada lingkungan komputasi modern (Linux Debian dengan Python 3.11.2 dan Pandas versi 3.0.6), diidentifikasi beberapa isu teknis dan pembaruan spesifikasi pustaka (*deprecation*) yang memerlukan adaptasi kode agar pipeline dapat berjalan secara stabil, efisien, dan bebas galat (*error-free*):
